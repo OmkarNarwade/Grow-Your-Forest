@@ -38,13 +38,14 @@ Each time you complete 3 tasks in a day, a tree grows in your forest. Stay consi
    git clone https://github.com/your-username/grow-your-forest.git
    cd grow-your-forest 
    
-2.Install Dependencies
+2.Install Dependencies & Run the App
+   ```bash
    flutter pub get
-
-3. Run the App
    flutter run
 
+   
 📁 Folder Structure
+```bash
 lib/
 │
 ├── main.dart                 # Entry point of the app
