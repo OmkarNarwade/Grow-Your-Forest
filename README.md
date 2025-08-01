@@ -45,7 +45,6 @@ Each time you complete 3 tasks in a day, a tree grows in your forest. Stay consi
 
    
 📁 Folder Structure
-```bash
 lib/
 │
 ├── main.dart                 # Entry point of the app
